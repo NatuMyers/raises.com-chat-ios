@@ -1,0 +1,25 @@
+{
+  "name": "RNMathView",
+  "version": "1.0.0",
+  "summary": "RNMathView",
+  "description": "RNMathView",
+  "homepage": "https://github.com/ShaMan123/react-native-math-view",
+  "license": "MIT",
+  "authors": {
+    "ShaMan123": "github: ShaMan123"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://github.com/ShaMan123/react-native-math-view.git",
+    "tag": "master"
+  },
+  "source_files": "ios/**/*.{h,m}",
+  "requires_arc": true,
+  "dependencies": {
+    "iosMath": [
+
+    ]
+  }
+}
